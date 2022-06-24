@@ -6,7 +6,7 @@ public class SumofArrayelements {
 	int a[]= {10,20,30,40,50};
 	int b[]= {9,18,27,36,45};
 	int sum;
-	System.out.println("average of numbers: ");
+	System.out.println("sumof numbers: ");
 	for (int i=0;i<a.length;i++)
 	{
 	System.out.println(sum=a[i]+b[i]);
